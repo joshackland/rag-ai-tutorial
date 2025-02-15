@@ -14,11 +14,12 @@ After installation, verify that Ollama is installed by running:
 
     ollama --version
 
-### Download the Llama 3.2:1b Model
+### Download Llama 3.2:1b and nomic-embed-text Models
 
-Run the following command to download the model:
+Run the following command to download the models:
 
     ollama pull llama3.2:1b
+    ollama pull nomic-embed-text
 
 ### Set Up a Virtual Environment
 
